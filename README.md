@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo20829
-Fork on GitHub6434
 <h1 align="center">Hi 👋, I'm Purushottam Gutthe</h1>
 <h3 align="center">A passionate Shell Scripting developer from India</h3>
 
