@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Purushottam Gutthe</h1>
+<h1 align="center">Hi 👋, I'm Purushottam here</h1>
 <h3 align="center">A passionate Shell Scripting developer from India</h3>
 
 - 🔭 I’m currently working on **Finance Tracker**
