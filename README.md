@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Finance Tracker**
 
-- 💬 Ask me about **Linux, SQL, PL/SQL, Java, Shell Scripting**
+- 💬 Ask me about **Java8, Spring Boot, Hibernate, JPA, Linux,  PL/SQL,  Shell Scripting**
 
 - 📫 How to reach me **purushottamgutthe6767@gmail.com**
 
