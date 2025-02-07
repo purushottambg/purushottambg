@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Gate Pass Application Powered By SpringBoot**
 
-- 🌱 I’m currently learning **Linux Shell Scripting**
+- 🌱 I’m currently learning **Spring Security, and JUnit**
 
-- 👯 I’m looking to collaborate on **Linux Scripts**
+- 👯 I’m looking to collaborate on **SpringBoot**
 
-- 🤝 I’m looking for help with **Finance Tracker**
+- 🤝 I’m looking for help with **Gate Pass web app**
 
-- 💬 Ask me about **Java8, Spring Boot, Hibernate, JPA, Linux,  PL/SQL,  Shell Scripting**
+- 💬 Ask me about **Java8, Spring Boot, Hibernate, JPA, Spring Security, Linux,  PL/SQL,  Shell Scripting**
 
 - 📫 How to reach me **purushottamgutthe6767@gmail.com**
 
