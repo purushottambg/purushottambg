@@ -1,15 +1,15 @@
 <h1 align="center">Hi, Purushottam here </h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate Spring Boot developer from India</h3>
 
 - 🔭 I’m currently working on **Gate Pass Application Powered By SpringBoot**
 
-- 🌱 I’m currently learning **Spring Security, and JUnit**
+- 🌱 I’m currently learning **Microservices and Build tool Maven**
 
 - 👯 I’m looking to collaborate on **SpringBoot**
 
 - 🤝 I’m looking for help with **Gate Pass web app**
 
-- 💬 Ask me about **Java8, Spring Boot, Hibernate, JUnit, Mockito, JPA, Spring Security, Linux,  PL/SQL,  Shell Scripting**
+- 💬 Ask me about **Java8, Spring Boot, Hibernate, Microservices, JUnit, Mockito, JPA, Spring Security, Linux,  PL/SQL,  Shell Scripting**
 
 - 📫 How to reach me **purushottamgutthe6767@gmail.com**
 
