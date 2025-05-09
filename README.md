@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Gate Pass web app**
 
-- 💬 Ask me about **Java8, J2EE, Spring Boot, Hibernate, Microservices, JUnit, Mockito, JPA, Spring Security, Linux, RDBMS, SQL, PL/SQL, Unix Shell Scripting**
+- 💬 Ask me about **Java8, J2EE, Spring Boot, Hibernate, Microservices, JUnit, Mockito, JPA, Spring Security, Linux, RDBMS, SQL, PL/SQL, Unix Shell,  Scripting, Sonarqube, Maven**
 
 - 📫 How to reach me **purushottamgutthe6767@gmail.com**
 
