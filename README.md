@@ -14,15 +14,6 @@
 
 - 📫 Reach me: [purushottamgutthe6767@gmail.com](mailto:purushottamgutthe6767@gmail.com)
 
-## 📊 GitHub Stats & Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=purushottambg&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purushottambg&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=purushottambg&show_icons=true&theme=radical)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=purushottambg&left_color=blue&right_color=green)
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,6 +21,12 @@
 <a href="https://www.hackerrank.com/purushottamgutthe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="purushottamgutthe" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@purushottamgutthe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@purushottamgutthe" height="30" width="40" /></a>
 </p>
+
+## 📊 GitHub Stats & Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=purushottambg&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=purushottambg&show_icons=true&theme=radical)
+
 
 ## 🚀 Projects
 
