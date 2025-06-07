@@ -1,17 +1,27 @@
 <h1 align="center">Hi There, Purushottam this side </h1>
 <h3 align="center">A passionate Backend Developer specialized in Spring Boot</h3>
 
-- 🔭 I’m currently working Working MNC tech giant **Telecom CRM & Ordering applications**
+- 🔭 Currently working at a leading MNC on **Telecom CRM & Ordering Applications**
+
 
 - 🌱 I’m currently learning **Kafka, CI/CD with Jenkins and SonarQube**
 
-- 👯 I’m looking to collaborate on **SpringBoot based College Gate Pass full stack project**
+- 👯 Looking to collaborate on a **Spring Boot-based College Gate Pass full-stack project**
 
-- 🤝 I’m looking for help with **Gate Pass web app**
+- 🤝 Open to suggestions & help on my **Gate Pass Web App**
 
 - 💬 Ask me about **Java8, J2EE, Spring Boot, Hibernate, Microservices, JUnit, Mockito, JPA, Spring Security, Linux, RDBMS, SQL, PL/SQL, Unix Shell,  Scripting, Sonarqube, Maven**
 
-- 📫 How to reach me **purushottamgutthe6767@gmail.com**
+- 📫 Reach me: [purushottamgutthe6767@gmail.com](mailto:purushottamgutthe6767@gmail.com)
+
+## 📊 GitHub Stats & Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=purushottambg&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purushottambg&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=purushottambg&show_icons=true&theme=radical)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=purushottambg&left_color=blue&right_color=green)
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -20,6 +30,15 @@
 <a href="https://www.hackerrank.com/purushottamgutthe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="purushottamgutthe" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@purushottamgutthe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@purushottamgutthe" height="30" width="40" /></a>
 </p>
+
+## 🚀 Projects
+
+- 🛒 [**E-Com Microservices**](https://github.com/purushottambg/ecomMicroservices)  *(In Progress)
+  `Spring Cloud | Eureka | API Gateway`  
+  Inventory & Order services with service discovery and API Gateway.
+
+- 🏫 [**Gate Pass System**](https://github.com/purushottambg/springgatepass) *(In Progress)*  
+  Full-stack project for college staff movement tracking.
 
 
 <h3 align="left">Languages and Tools:</h3>
