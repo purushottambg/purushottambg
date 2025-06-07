@@ -1,11 +1,11 @@
 <h1 align="center">Hi There, Purushottam this side </h1>
-<h3 align="center">A passionate Spring Boot developer from India</h3>
+<h3 align="center">A passionate Backend Developer specialized in Spring Boot</h3>
 
-- 🔭 I’m currently working on **Gate Pass Application Powered By SpringBoot**
+- 🔭 I’m currently working Working MNC tech giant **Telecom CRM & Ordering applications**
 
-- 🌱 I’m currently learning **Kafka, CI/CD with Jenkinsand SonarQube**
+- 🌱 I’m currently learning **Kafka, CI/CD with Jenkins and SonarQube**
 
-- 👯 I’m looking to collaborate on **SpringBoot**
+- 👯 I’m looking to collaborate on **SpringBoot based College Gate Pass full stack project**
 
 - 🤝 I’m looking for help with **Gate Pass web app**
 
